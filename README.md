@@ -50,6 +50,7 @@ python -m spacy download en_core_web_sm
 Upload a PDF or DOCX resume and interact with the analyzer!
 #  Example Output screen shot
 <img width="442" alt="image" src="https://github.com/user-attachments/assets/2564df53-7b2d-49d5-80eb-863f14b3d2d9" />
+
 #  Contributing
 Contributions and feature requests are welcome! Please fork the repo and submit a pull request.
 
